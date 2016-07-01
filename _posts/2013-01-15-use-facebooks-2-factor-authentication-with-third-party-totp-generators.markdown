@@ -10,7 +10,7 @@ Facebook offers 2-Factor Authentication (in the form of "[Login Approvals](https
 
 1.  Login to [Facebook](https://www.facebook.com/).
 2.  Navigate to [Account Settings](https://www.facebook.com/settings?ref=mb), then [Security](https://www.facebook.com/settings?tab=security).
-3.  Look for Login Approvals, and click Edit.
+3.  Click [Login Approvals](https://www.facebook.com/settings?tab=security&section=approvals&view).
 4.  If you haven't already, enable the Login Approvals feature.
 5.  Click the Set up Code Generator link.
 6.  When the modal dialog appears, click Next.
